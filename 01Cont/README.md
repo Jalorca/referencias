@@ -10,7 +10,7 @@
 > Es necesario tener un entendimiento básico de los conceptos de dataware housing, base de datos con SQL, REST APIs, JSON, Python, linea de comando con Linux y al menos una plataforma en la nube.
 ### CÁPITTULOS
 1. [Introducción a Data Pipelines](Cap1)
-2. Insfraestrutura de datos moderna
+2. [Insfraestrutura de datos moderna](Cap2)
 3. Patrones comunes de Data Pipelines
 4. 
 ---
