@@ -1,0 +1,14 @@
+# Introducción a las data pipelines
+
+Cada dashboard,modelos de machine learning y cada percepción o conocimiento de negocio es data. No es solo data en bruto sino data recolectada desde numerosas fuentes que han sido limpiadas, procesadas y combinadas para tranmitir valor. La famosas frase "data es el nuevo petróleo" ha provado ser verdad. Justo como el aceote, el valor de la data esta en su potencial despue de ser refinada y enviadad al consumidor. Tambien, como el petroleo, es necesario pipelines (tuberrias) eficientes para enviar data hacia cada estapa de la cadena de valor.
+
+---
+|**Concepto**|**Definición**|
+|---|---|
+|*Data Pipelines*|Los pipelines con un conjunto de procesos que mueven y transforman la data desde varias fuentes hacie un punto donde nuevo valor puede ser optenido. Esto suele ser la base para que el analisis, reportes y machine learning  funcione correctamente|
+|*Proceso de Data Pipelines*| Los pipeline normalmente consisten de multiples secciones que incluyen la extracción de datos, el procesamiento de datos, la visualizacion de datos, y algunas veces el entrenamiento o la ejecución de un modelos de machine learning antes de llevar los datos a su destino final. Los pipelines contiene tareas de multiples sistemas y lenguajes de programación.
+|*Ingeniero de Datos*|Los ingenieros de datos se especializan en construcir y mantener los data pipelines. Además, un **ingeniero de datos trabaja en conjunto** con los cientificos de datos, analistas de datos para entender lo que se debe hacer con la data y ayudar en las necesidades de estos. Los ingenieros de datos se aseguran de que la data que envian sea valida y oportuna, esto significa pobrar, alertar y crear planes de contingencia en caso algo salga mal.|
+|*Habilidades que requiere un ingeniero de datos*|- **SQL y fundamentos de data warehousing**. - **Python y Java**. - **Computación distribuida** ( Esto concepto se refiere a la combinación de multiples sistemas para mejorar la eficiencia del almacenamiento, procesado y analisis de grandes cantidades de datos,). - **Sistema básico de adminstración**( Línea de comando en Linux ). - **Mentalidad orientada al objetivo.**|
+|Importancia de los Pipelines|Los pipelines hacen mas que extraer data desde las fuentes y cargarla en tablas de ases de datos o archivos planos para que los analistas lo usen. La data en crudo es refinada a lo alrgo que es limpiada, estructurada, normalizada, combinada, agregada, y algunas veces asegurada (ponerla como anonimo). Sucede mucho a lo largo del flujo de un pipeline. Ademas, los pipelines no son solo construidos sino monitoriados, mantenidos y extendidos. Los ingenieros de datos son solicitados no solo para enviar datos una sola vez, tambien, construir pipelines y dar soporte a la insfraestructura que envia y procesa la data de forma confiable, segura y a tiempo.|
+---
+[REGRESAR](Cap1)
